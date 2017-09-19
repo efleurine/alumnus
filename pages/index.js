@@ -1,5 +1,5 @@
 import React from 'react';
 
 export default () => (
-  <p>Welcome to Next.js!</p>
+  <p>Alumnus A simple and efficient platform for almuni!</p>
 );
