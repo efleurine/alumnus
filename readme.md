@@ -17,5 +17,10 @@ Alumnus provides a solution for schools and other educational institution to cre
 
 
 
-## Technical doc
+#### Technical doc
 [https://docs.google.com/document/d/1-r6DXLVXm8igP1OlvFqXtsSfHL9Okoid6QeyKVXg1SY/edit?usp=sharing](https://docs.google.com/document/d/1-r6DXLVXm8igP1OlvFqXtsSfHL9Okoid6QeyKVXg1SY/edit?usp=sharing)
+
+#### Full Google Doc Folder 
+
+[https://drive.google.com/drive/folders/0B7ErYwdYuXpEeW4tYXFkZHhnME0?usp=sharing](https://drive.google.com/drive/folders/0B7ErYwdYuXpEeW4tYXFkZHhnME0?usp=sharing)
+
