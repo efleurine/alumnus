@@ -1,10 +1,5 @@
 module.exports = {
   "extends": "airbnb",
-  "rules": {
-    "react/jsx-filename-extension": [1, {
-      "extensions": [".js", ".jsx"]
-    }]
-  },
   "parserOptions": {
     "ecmaVersion": 8
   },
@@ -13,6 +8,9 @@ module.exports = {
     "indent": ["error", 2],
     "no-console": ["error", {
       allow: ["warn", "error"]
+    }],
+    "react/jsx-filename-extension": [1, {
+      "extensions": [".js", ".jsx"]
     }],
   },
 };
