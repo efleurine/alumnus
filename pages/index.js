@@ -1,5 +1,8 @@
 import React from 'react';
+import BaseLayout from '../containers/BaseLayout'
 
 export default () => (
-  <p>Alumnus A simple and efficient platform for almuni!</p>
+  <BaseLayout>
+    <p className="f1 tc">Welcome | Bienveni | Bienvenue</p>
+  </BaseLayout>
 );
