@@ -16,3 +16,7 @@ coverage
 # test output
 test/**/out
 .DS_Store
+
+# tools folder
+.vscode/
+.idea/
