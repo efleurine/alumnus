@@ -3,7 +3,7 @@
 Alumnus provides a solution for schools and other educational institution to create space for former students to stay connected together and with the school.
 
 ## Requirements
-* You need nodejs and npm installed. Last tested version was v7.10.1
+* You need nodejs v8.4.0  
 
 
 ## Installation
@@ -17,4 +17,10 @@ Alumnus provides a solution for schools and other educational institution to cre
 
 
 
+#### Technical doc
+[https://docs.google.com/document/d/1-r6DXLVXm8igP1OlvFqXtsSfHL9Okoid6QeyKVXg1SY/edit?usp=sharing](https://docs.google.com/document/d/1-r6DXLVXm8igP1OlvFqXtsSfHL9Okoid6QeyKVXg1SY/edit?usp=sharing)
+
+#### Full Google Doc Folder 
+
+[https://drive.google.com/drive/folders/0B7ErYwdYuXpEeW4tYXFkZHhnME0?usp=sharing](https://drive.google.com/drive/folders/0B7ErYwdYuXpEeW4tYXFkZHhnME0?usp=sharing)
 
