@@ -5,7 +5,9 @@
  */
 
 
-export default function Logger(msg) {
+function Logger(msg) {
   // eslint-disable-next-line
   console.log(msg)
 }
+
+module.exports = Logger
