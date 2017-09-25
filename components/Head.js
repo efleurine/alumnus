@@ -22,7 +22,7 @@ function Header({ title, description }) {
       <link
         href="https://unpkg.com/tachyons@4.8.0/css/tachyons.min.css"
         rel="stylesheet"
-      />
+      /> 
     </Head>
   )
 }
