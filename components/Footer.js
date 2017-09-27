@@ -3,10 +3,10 @@ import React from 'react'
 function Footer() {
   return (
     <div className="fix-bottom">
-      <p className="tc">All rigths reserved</p>
+      <p className="tc f7">© 2017 All rigths reserved</p>
       <style jsx>{`
         .fix-bottom {
-          position: relative;
+          position: absolute;
           bottom: 0;
           width: 100%;
           height: auto;
