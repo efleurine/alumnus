@@ -7,16 +7,12 @@ class Nav extends React.Component {
   render() {
     return (
       <div>
-        <p className="tc bg-white ma0 pa3 f1 helvetica head-text">Alumnus</p>
+        <p className="tc bg-white ma0 pa3 f1 helvetica shadow-3 custom-color">Alumnus</p>
         <style jsx>{`
-              .head-text{
-                color: #094E62;
-                -webkit-box-shadow: 0px 6px 5px 0px #ccc;
-                -moz-box-shadow:    0px 6px 5px 0px #ccc;
-                box-shadow:         0px 6px 5px 0px #ccc;
-              }
-              `}
-        </style>
+          .custom-color {
+            color: #094E62;
+          }
+        `}</style>
       </div>
 
     )
