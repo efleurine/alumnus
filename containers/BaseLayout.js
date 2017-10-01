@@ -41,4 +41,3 @@ Layout.defaultProps = {
   title: 'Alumnus',
   description: 'A user friendly platform for various kind of institutions',
 }
-
